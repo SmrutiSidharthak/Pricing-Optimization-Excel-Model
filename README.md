@@ -20,8 +20,8 @@ Businesses often struggle to balance pricing, demand, and profitability. Setting
 - Used Solver to identify optimal pricing
 
 ## Key Result
-- Optimal Price: ₹141.43
-- Maximum Profit: ₹52,014
+- Optimal Price: $141.43
+- Maximum Profit: $52,014
 
 ## Key Insights
 - Profit depends on the trade-off between margin and demand
@@ -33,6 +33,7 @@ Businesses often struggle to balance pricing, demand, and profitability. Setting
 - Microsoft Excel
 - Solver
 - Data Analysis
+- Microsoft Power Point
 
 ## Files
 - Excel Model (.xlsx)
